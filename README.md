@@ -66,6 +66,7 @@ Autonomous agents that can plan, write, and debug code with minimal supervision.
 |------|--------|-------------|
 | [Claude Code](https://github.com/anthropics/claude-code) | Anthropic | Official CLI for Claude that handles complex software engineering tasks autonomously |
 | [Codex CLI](https://github.com/openai/codex) | OpenAI | Terminal-based coding agent powered by GPT models |
+| [codex-profiles](https://github.com/Ducksss/codex-profiles) | Ducksss | Manage named Codex CLI homes and separate local state for named ChatGPT windows |
 | [OpenCode](https://github.com/anomalyco/opencode) | Anomaly | Open-source AI coding agent with extensible architecture |
 | [Aider](https://github.com/paul-gauthier/aider) | Paul Gauthier | AI pair programming in your terminal with git integration |
 | [cecli (aider-ce)](https://github.com/dwash96/cecli) | dwash96 | Aider fork with a different style of AI-assisted coding |
