@@ -120,7 +120,7 @@ Build production AI agents programmatically with these SDKs.
 | Name | Author | Languages | Description |
 |------|--------|-----------|-------------|
 | [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview) | Anthropic | Python, TypeScript | Build production agents using Claude Code as a library. Built-in tools, hooks, subagents, MCP support |
-| [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | Microsoft | Python, .NET | Unified framework combining AutoGen and Semantic Kernel (GA Q1 2026) |
+| [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | Microsoft | Python, .NET | Unified framework combining AutoGen and Semantic Kernel (GA since April 2026) |
 | [LangChain](https://github.com/langchain-ai/langchain) | LangChain | Python, JS | Popular framework for LLM-powered applications |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | LlamaIndex | Python | Data framework for LLM applications with RAG |
 
