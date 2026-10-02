@@ -24,16 +24,16 @@ The Agent SDK provides the full power of Claude Code (tools, sessions, hooks) as
 
 ```bash
 # Using uv (recommended)
-uv add claude-code-sdk
+uv add claude-agent-sdk
 
 # Or pip
-pip install claude-code-sdk
+pip install claude-agent-sdk
 ```
 
 ### TypeScript/Node.js
 
 ```bash
-npm install @anthropic-ai/claude-code-sdk
+npm install @anthropic-ai/claude-agent-sdk
 ```
 
 ---

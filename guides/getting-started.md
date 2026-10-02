@@ -36,8 +36,8 @@ Embed AI agents in your applications:
 
 | If you want... | Try this |
 |----------------|----------|
-| Python integration | [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview) (`uv add claude-code-sdk`) |
-| TypeScript/Node.js | [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview) (`npm i @anthropic-ai/claude-code-sdk`) |
+| Python integration | [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview) (`uv add claude-agent-sdk`) |
+| TypeScript/Node.js | [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview) (`npm i @anthropic-ai/claude-agent-sdk`) |
 | .NET ecosystem | [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) |
 
 See our [Agent SDK Guide](agent-sdk-guide.md) for detailed usage.
